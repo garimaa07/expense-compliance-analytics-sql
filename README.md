@@ -38,9 +38,4 @@ It covers **employee expenses, approvals, policy violations, audit logs, and ana
 CREATE DATABASE expense_compliance_db;
 USE expense_compliance_db;
 
-### High-risk Employees
-![High-risk Employees](images/high_risk_employees.png)
-*High-risk employees with the most policy violations — helps identify individuals who may require additional compliance training or monitoring.*
-<img width="1440" height="362" alt="ss1" src="https://github.com/user-attachments/assets/50880a7a-66de-42f6-b5ca-ac8287133b1b" />
-
 
