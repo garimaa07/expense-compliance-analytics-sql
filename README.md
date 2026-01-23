@@ -1,3 +1,4 @@
+> A MySQL-based Expense Tracking, Compliance, and Analytics System with Automated Policy Enforcement and Audit Logging.
 # Enterprise Expense & Compliance Analytics System (MySQL)
 
 ## 📌 Project Overview
